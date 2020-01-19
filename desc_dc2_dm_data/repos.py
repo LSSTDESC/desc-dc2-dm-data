@@ -16,4 +16,6 @@ REPOS = {
     '2.1i_dr1a': '/global/cscratch1/sd/desc/DC2/data/Run2.1i/rerun/coadd-v1',
     '2.1i_dr1b': '/global/cscratch1/sd/desc/DC2/data/Run2.1i/rerun/coadd-dr1b-v1',
     '2.1i_dr4': '/global/cscratch1/sd/desc/DC2/data/Run2.1i/rerun/coadd-dr4-v1',
+    '2.2i_dr2_tract3828': '/global/cscratch1/sd/desc/DC2/data/Run2.2i/rerun/run2.2-coadd-wfd-y1-v1',
+    'dia_2020Jan': '/global/cscratch1/sd/bos0109/templates_rect',
 }
