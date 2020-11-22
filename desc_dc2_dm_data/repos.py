@@ -36,8 +36,7 @@ _REPOS = {
 
 
 def choose_repos_by_site():
-    print(_REPOS)
-    for site, repos in _REPOS:
+    for site, repos in _REPOS.items():
         if site in SITE_INFO:
             return repos
     warnings.warn("Site '{}' not recognized. Default to nersc.".format(SITE_INFO))
