@@ -29,12 +29,14 @@ _REPOS = {
     },
 
     "in2p3": {
-        # TODO: add repo paths
+        '2.2i_dr3': '/sps/lssttest/dataproducts/desc/DC2/Run2.2i/v19.0.0-v1/rerun/run2.2i-coadd-wfd-dr2-v1',
+        '2.2i_dr6_wfd': '/sps/lssttest/dataproducts/desc/DC2/Run2.2i/v19.0.0-v1/rerun/run2.2i-coadd-wfd-dr6-v1',
     },
 }
 
 
 def choose_repos_by_site():
+    print(_REPOS)
     for site, repos in _REPOS:
         if site in SITE_INFO:
             return repos
