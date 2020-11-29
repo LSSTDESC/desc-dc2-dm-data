@@ -37,7 +37,6 @@ _REPOS = {
         '2.1i_dr1a': '/sps/lsst/dataproducts/desc/DC2/Run2.1i/w_2019_19-v1/rerun/coadd-v1',
         '2.1i_dr1b': '/sps/lsst/dataproducts/desc/DC2/Run2.1i/w_2019_19-v1/rerun/coadd-dr1b-v1',
         '2.2i_dr2_tract3828': '/sps/lssttest/dataproducts/desc/DC2/Run2.2i/v19.0.0-v1/rerun/run2.2i-coadd-t3828-dia-y2-v1',
-        '2.2i_dr2': '/sps/lssttest/dataproducts/desc/DC2/Run2.2i/v19.0.0-v1/rerun/run2.2i-coadd-wfd-dr3-v1',
         '2.2i_dr3': '/sps/lssttest/dataproducts/desc/DC2/Run2.2i/v19.0.0-v1/rerun/run2.2i-coadd-wfd-dr3-v1',
         '2.2i_dr6_wfd': '/sps/lssttest/dataproducts/desc/DC2/Run2.2i/v19.0.0-v1/rerun/run2.2i-coadd-wfd-dr6-v1',
     },
